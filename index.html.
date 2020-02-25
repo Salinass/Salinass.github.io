@@ -1,0 +1,81 @@
+<html>
+  <head> 
+    <link rel='stylesheet' href='style.css' type='text/css'>
+
+    <!-- write your hero's name here in the <title> element  -->
+    <title></title>
+  </head>
+
+
+  <body>
+
+    <div class="container">
+      <div class="jumbotron">
+        <div class="row">
+          <div>
+            <!-- Main Heading; Give the person's name; use <h1> -->
+            <h1 class="text-center">Cristiano Ronaldo </h1>
+            <!-- Subheading; use <h2>  -->
+            <h2 class="text-center">Famous Soccer Player</h2>
+            <div class="thumbnail">
+              <!-- place and image here; use an image already on the internet -->
+              <img src= "https://d.newsweek.com/en/full/1542247/cristiano-ronaldo.jpg" alt="Cristiano Ronaldo" width="630"
+
+                   <!-- place a caption under your picture which explains the picture -->
+
+              <div class="caption text-center">Ronaldo Smiling at his fans</div>
+            </div>
+            <div>
+              <!-- heading; use <h3>  -->
+              <h3 class="text-center"> Why Cristiano Ronaldo is the Greatest Soccer Player and Known for a Caring Person</h3>
+              <!-- write a paragraph explaining why your person is so great  -->
+              <p> Ronaldo is a famous soccer player, and the best one out there. Ronaldo won five Ballon d' Oro for his old team Real Madrid. Ronaldo was also nominated for three different type of leagues in Europe. In the UEFA Champions he was the favorite soccer player of all time. Ronaldo helps people that in need of help. Since Ronaldo would take it back to his childhood his father would teach him. Ronaldo was choosen in 2015, from a non- govermental organization as the most supportive athlete. 
+              </p>
+            </div>
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+              <h3 class="text-center">Timeline of Ronaldo's Life:</h3>
+              <!-- create a timeline using an unordered list -->
+              <ul>
+                <li> Feb 5, 1985- Ronaldo is born</li>
+                <li>Jul 1, 1993- First Amateur Team</li>
+                <li>Jun 1, 1995- First Local Club</li>
+                <li>Jun 1, 1997- First Professional Team</li>
+                <li>Sept 1, 2001- First Professional Debut</li>
+                <li>Jul 18, 2003- Changed To Manchester United</li>
+                <li>Jul 1, 2006- Germany World Cup</li>
+                <li>May 28, 2008- Euorpean Champion</li>
+                <li>Jul 6, 2009- Transfer to Real Madrid</li>
+                <li>Jun 29, 2010-South Africa World Cup</li>
+                <li>Nov 21, 2012- Donates Gloden Boot</li>
+                <li>Jan 1, 2016- Was named worlds most famous athlete</li>
+                <li>Jul 10, 2019- Transfer to Juventus</li>
+                <li>Jan 1, 2019- Won first trophy with Juventus</li>
+                <li>Jan 1, 2020- Curently still playing for Juventus</li>
+
+
+
+
+
+
+
+
+                <blockquote>
+                  <!-- use the <p> to display a famous quote from your hero -->
+                  <p>"Im living a dream I never want to wake up from."   </p>
+                  <!-- don't forget the quoter's name here --> - Cristiano Ronaldo
+                  <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+                </blockquote>
+                <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+                <h3> Continue reading about this amazing hero <a href=" https://en.wikipedia.org/wiki/Cristiano_Ronaldo"> Cristiano Ronaldo </a>  </h3>
+                </div>
+            </div>
+          </div>
+        </div>
+        <footer class="text-center">
+          <!--  use the <hr> to create a horizontal line separating the footer section -->
+          <hr>
+          <p> Writen and coded by Ashley Salinas.        </p>
+        </footer>
+      </div>
+      </body>
+    </html>
